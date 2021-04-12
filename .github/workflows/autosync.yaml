@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: mollyim/mollyim-android@v1.6
+      - uses: mollyim/mollyim-android@master
         with:
           base: master
           head: master
