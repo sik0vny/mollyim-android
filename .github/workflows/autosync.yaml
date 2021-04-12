@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: mollyim/mollyim-android@master
+      - uses: tgymnich/fork-sync@v1.4
         with:
           base: master
           head: master
